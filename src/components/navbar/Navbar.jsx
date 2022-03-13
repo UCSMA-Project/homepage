@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiGithubAlt, DiGithubFull } from 'react-icons/di'
+import { DiGithubBadge, DiGithubFull } from 'react-icons/di'
 import './navbar.css'
 import ucsma_logo from '../../assets/ucsma_logo.png'
 
@@ -27,7 +27,7 @@ const Navbar = () => {
 
       <div className='ucsma__navbar-github'>
         <p><a href='https://github.com/UCSMA-Project/'>
-          <DiGithubAlt style={{fontSize: '40px'}}/>
+          <DiGithubBadge style={{fontSize: '40px'}}/>
           <DiGithubFull style={{fontSize: '60px'}}/>
         </a></p>
       </div>
