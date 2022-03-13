@@ -2,6 +2,7 @@ import React from 'react';
 
 import { Navbar } from './components';
 import { Features, Footer, Header, WhatsUCSMA } from './containers';
+import './App.css';
 
 const App = () => {
   return (
