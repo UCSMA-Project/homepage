@@ -3,24 +3,6 @@
     padding: 2rem;
     margin-top: 0 !important;
     padding-top: 0 !important;
-    background: var(--color-footer);
-
-    /* ff 3.6+ */
-    background:-moz-radial-gradient(circle at 30% 0%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 0%);
-
-    /* safari 5.1+,chrome 10+ */
-    background:-webkit-radial-gradient(circle at 0% 0%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 0%);
-
-    /* opera 11.10+ */
-    background:-o-radial-gradient(circle at 0% 0%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 0%);
-
-    /* ie 10+ */
-    background:-ms-radial-gradient(circle at 0% 0%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 0%);
-
-    /* global 92%+ browsers support */
-    background:radial-gradient(circle at 0% 0%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 0%);
-
-    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
 
 /* heading */
@@ -29,7 +11,7 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    width: 400px;
+    width: 600px;
     padding-top: 80px;
     margin: 4rem 0 2rem;
     display: inline-block;
@@ -39,7 +21,7 @@
     font-size: 34px;
     line-height: 45px;
     font-weight: 800;
-    max-width: 400px;
+    max-width: 600px;
     font-family: var(--font-family);
 }
 
@@ -55,7 +37,7 @@
 /* features details */
 
 .features-container {
-    width: 50%;
+    width: 55%;
     padding-top: 80px;
     margin-top: 50px;
     margin-bottom: 100px;

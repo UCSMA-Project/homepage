@@ -11,13 +11,18 @@ const Features = () => {
       </div>
 
       <div className='features-container'>
-        <Feature title={"Feature 1"} text={"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae assumenda reiciendis sit ad hic quisquam, ducimus officiis."} />
-      
-        <Feature title={"Feature 2"} text={"Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam similique et totam, ipsam magni harum temporibus animi odio cupiditate alias accusamus esse officia voluptas aperiam a dolores facilis sit eveniet."} />
-      
-        <Feature title={"Feature 3"} text={"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis, repellat!"} />
-
-        <Feature title={"Feature 4"} text={"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis, repellat!"} />
+        <div style={{'height': '75px'}}>
+          <Feature title={"Feature 1"} text={"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae assumenda reiciendis sit ad hic quisquam, ducimus officiis."} />
+        </div>
+        <div style={{'height': '75px'}}>
+          <Feature title={"Feature 2"} text={"Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam similique et totam, ipsam magni harum temporibus animi odio cupiditate alias accusamus esse officia voluptas aperiam a dolores facilis sit eveniet."} />
+        </div>
+        <div style={{'height': '75px'}}>
+          <Feature title={"Feature 3"} text={"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis, repellat!"} />
+        </div>
+        <div style={{'height': '75px'}}>
+          <Feature title={"Feature 4"} text={"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium sapiente aliquid voluptate ex officiis eligendi voluptas eaque dicta, commodi sint."} />
+        </div>
       </div>
   </div>
   );
