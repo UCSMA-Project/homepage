@@ -11,7 +11,9 @@ const WhatsUCSMA = () => {
 
       <div className='ucsma__whatucsma-heading'>
         <h1 className='gradient__text'>Applications of UCSMA are <i>BOUNDLESS</i></h1>
-        <p><a href='https://github.com/UCSMA-Project'>Explore The Repository</a></p>
+        <p><a href='https://github.com/UCSMA-Project' target={'_blank'} rel={'noreferrer'}>
+          Explore The Repository
+        </a></p>
       </div>
 
       <div className='ucsma__whatucsma-container'>

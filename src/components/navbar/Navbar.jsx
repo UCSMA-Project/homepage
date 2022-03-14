@@ -8,7 +8,7 @@ const Menu = () => (
     <p><a href='#home'>Home</a></p>
     <p><a href='#wucsma'>What is UCSMA</a></p>
     <p><a href='#features'>Features</a></p>
-    <p><a href='https://ucsma-project.github.io/docs/'>Documentations</a></p>
+    <p><a href='https://ucsma-project.github.io/docs/' target={'_blank'} rel={'noreferrer'}>Documentations</a></p>
   </>
 )
 
@@ -26,7 +26,7 @@ const Navbar = () => {
       </div>
 
       <div className='ucsma__navbar-github'>
-        <p><a href='https://github.com/UCSMA-Project/'>
+        <p><a href='https://github.com/UCSMA-Project/' target={'_blank'} rel={'noreferrer'}>
           <DiGithubBadge style={{fontSize: '40px'}}/>
           <DiGithubFull style={{fontSize: '60px'}}/>
         </a></p>
