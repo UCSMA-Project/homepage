@@ -10,8 +10,8 @@ const App = () => {
         <div className='gradient__bg'>
             <Navbar />
             <Header />
+            <WhatsUCSMA />
         </div>
-        <WhatsUCSMA />
         <Features />
         <Footer />
     </div>
