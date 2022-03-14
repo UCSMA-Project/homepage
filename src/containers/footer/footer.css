@@ -1,0 +1,118 @@
+.ucsma__footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: var(--color-footer);
+    width: 100%;
+}
+
+.ucsma__footer-heading {
+    width: 60%;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.ucsma__footer-heading h1 {
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-size: 62px;
+    line-height: 75px;
+    text-align: center;
+    letter-spacing: -0.04em;
+}
+
+.ucsma__footer-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10%;
+    padding: 1rem;
+    border: 1px solid white;
+    text-align: center;
+    margin-bottom: 7rem;
+    cursor: pointer;
+}
+
+.ucsma__footer-btn p {
+    box-sizing: border-box;
+    font-family: var(--font-family);
+    font-size: 18px;
+    word-spacing: 2px;
+    line-height: 21px;
+    color: #fff;
+}
+
+.ucsma__footer-links {
+    padding-left: 5%;
+    padding-right: 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 100%;
+    text-align: left;
+}
+
+.ucsma__footer-links div {
+    /* width: 20%; */
+    margin: 1rem;
+}
+
+.ucsma__footer-links_logo {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+}
+
+.ucsma__footer-links_logo img {
+    width: 240.52px;
+    height: 144.2px;
+    margin-bottom: 1rem;
+}
+
+.ucsma__footer-links_logo p {
+    font-family: var(--font-family);
+    font-size: 12px;
+    line-height: 14px;
+    color: #fff;
+}
+
+.ucsma__footer-links_div {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.ucsma__footer-links_div h4 {
+    font-family: var(--font-family);
+    font-size: 16px;
+    line-height: 18px;
+    color: #fff;
+    margin-bottom: 1rem;
+}
+
+.ucsma__footer-links_div p {
+    display: flex;
+    align-items: center;
+    font-family: var(--font-family);
+    font-size: 14px;
+    line-height: 16px;
+    color: #fff;
+    margin: 0.5rem 0;
+    cursor: pointer;
+}
+
+.ucsma__footer-copyright {
+    margin-top: 2rem;
+    text-align: center;
+    width: 100%;
+}
+
+.ucsma__footer-copyright p {
+    font-family: var(--font-family);
+    font-size: 12px;
+    line-height: 14px;
+    color: #fff;
+}
