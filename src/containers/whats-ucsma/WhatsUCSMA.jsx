@@ -6,7 +6,7 @@ const WhatsUCSMA = () => {
   return (
     <div className='ucsma__whatucsma section__margin' id='wucsma'>
       <div className='ucsma__whatucsma-feature'>
-        <Feature title={"What is UCSMA"} text={"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero necessitatibus ad esse saepe repellat assumenda id quibusdam eos iusto, reprehenderit officiis expedita. Possimus accusamus, velit nam beatae dolore, delectus similique mollitia odit hic est aliquam dolorem fuga tempore expedita ab. Aliquam laborum nemo molestiae omnis dolor recusandae commodi consequuntur dolorem voluptatibus. Hic ducimus, aut soluta aspernatur vel atque doloribus reprehenderit odio voluptatem laborum quaerat, optio fuga inventore explicabo voluptates sapiente eos cumque! Ab reiciendis illum praesentium, repudiandae eveniet ex obcaecati!"} />
+        <Feature title={"What is UCSMA"} text={"One of the main challenges in creating this vision of the IoT is create the networking infrastructure that is able to provide the wireless networking connectivity on the scale that is required for the IoT. In our research group, we developed a novel wireless networking protocol that showed for the first time that it is possible to create a high-performance wireless networking infrastructure using simple, distributed networking protocols."}/>
       </div>
 
       <div className='ucsma__whatucsma-heading'>
@@ -17,11 +17,11 @@ const WhatsUCSMA = () => {
       </div>
 
       <div className='ucsma__whatucsma-container'>
-        <Feature title={"Application 1"} text={"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae assumenda reiciendis sit ad hic quisquam, ducimus officiis."} />
+        <Feature title={"Application 1"} text={"Smart Homes: Smart homes take both, convenience and home security, to the next level. Though there are different levels at which IoT is applied for smart homes, the best is the one that blends intelligent utility systems and entertainment together. "} />
         
-        <Feature title={"Application 2"} text={"Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam similique et totam, ipsam magni harum temporibus animi odio cupiditate alias accusamus esse officia voluptas aperiam a dolores facilis sit eveniet."} />
+        <Feature title={"Application 2"} text={"Self-driven Cars: The cars use several sensors and embedded systems connected to the Cloud and the internet to keep generating data and sending them to the Cloud for informed decision-making through Machine Learning."} />
         
-        <Feature title={"Application 3"} text={"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis, repellat!"} />
+        <Feature title={"Application 3"} text={"Industrial Internet: The Industrial Internet of Things consists of interconnected sensors, instruments, and other devices connected with computers’ industrial applications like manufacturing, energy management, etc."} />
       </div>
     </div>
   );

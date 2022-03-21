@@ -20,7 +20,7 @@ const Header = () => {
       <div className='ucsma__header-content'>
         <h1 className='gradient__text'>Connect the world better with UCSMA</h1>
 
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis, repellat! Harum quasi vitae molestias, eum quisquam blanditiis, odio perspiciatis reprehenderit rem sint consequuntur, tempora iusto! Officiis eos nulla quisquam perferendis?</p>
+        <p>Do you want to know more about modifying kernel network driver to implement features such as rate control? Do you want to know how to keep track of the transmission timeline of the nodes while conducting experiments? We have all these interesting problems in UCSMA!</p>
 
         <div className='ucsma__header-content__input'>
           <input 
