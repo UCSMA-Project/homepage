@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/homepage/static/css/main.d38e44b7.css",
+    "main.js": "/homepage/static/js/main.9a9ce05f.js",
+    "static/media/header_iot.png": "/homepage/static/media/header_iot.5882b2b31931237dbbce.png",
+    "static/media/ucsma_logo.png": "/homepage/static/media/ucsma_logo.95fc7a8bb1b48b47de3c.png",
+    "index.html": "/homepage/index.html",
+    "main.d38e44b7.css.map": "/homepage/static/css/main.d38e44b7.css.map",
+    "main.9a9ce05f.js.map": "/homepage/static/js/main.9a9ce05f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d38e44b7.css",
+    "static/js/main.9a9ce05f.js"
+  ]
+}
