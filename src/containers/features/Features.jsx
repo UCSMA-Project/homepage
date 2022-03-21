@@ -12,16 +12,16 @@ const Features = () => {
 
       <div className='features-container'>
         <div style={{'height': '75px'}}>
-          <Feature title={"Feature 1"} text={"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae assumenda reiciendis sit ad hic quisquam, ducimus officiis."} />
+          <Feature title={"Feature 1"} text={"The rate control protocol is the key part of UCSMA, which attempts to maintain fairness among different nodes in an ad-hoc wireless network."} />
         </div>
         <div style={{'height': '75px'}}>
-          <Feature title={"Feature 2"} text={"Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam similique et totam, ipsam magni harum temporibus animi odio cupiditate alias accusamus esse officia voluptas aperiam a dolores facilis sit eveniet."} />
+          <Feature title={"Feature 2"} text={"Packetspammer is a throughput-measurement tool that injects unencrypted broadcast packets over Wi-Fi. This utility is adapted from Andy Green’s Packetspammer."} />
         </div>
         <div style={{'height': '75px'}}>
-          <Feature title={"Feature 3"} text={"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis, repellat!"} />
+          <Feature title={"Feature 3"} text={"Raspberry Pi GPIO: all nodes connect to a Raspberry Pi via GPIO and send a GPIO pulse once a packet has finished transmission."} />
         </div>
         <div style={{'height': '75px'}}>
-          <Feature title={"Feature 4"} text={"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium sapiente aliquid voluptate ex officiis eligendi voluptas eaque dicta, commodi sint."} />
+          <Feature title={"Feature 4"} text={"Transmission Monitoring: keep track of the transmission timeline of the nodes while conducting experiments."} />
         </div>
       </div>
   </div>
